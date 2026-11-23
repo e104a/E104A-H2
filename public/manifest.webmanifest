@@ -1,0 +1,14 @@
+{
+  "name": "E104A-H2 - Ôn tập và thi trắc nghiệm",
+  "short_name": "E104A-H2",
+  "description": "Ứng dụng ôn tập và thi trắc nghiệm",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#123a63",
+  "orientation": "any",
+  "icons": [
+    { "src": "/avatar.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
